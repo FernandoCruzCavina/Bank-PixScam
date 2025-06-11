@@ -1,0 +1,24 @@
+[submodule "account-microservice"]
+	path = account-microservice
+	url = git@github.com:FernandoCruzCavina/account-microservice.git
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:FernandoCruzCavina/auth-service.git
+[submodule "bank-frontend"]
+	path = bank-frontend
+	url = git@github.com:FernandoCruzCavina/bank-frontend.git
+[submodule "email-sender-service"]
+	path = email-sender-service
+	url = git@github.com:FernandoCruzCavina/email-sender-service.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:FernandoCruzCavina/gateway.git
+[submodule "payment-microservice"]
+	path = payment-microservice
+	url = git@github.com:FernandoCruzCavina/payment-microservice.git
+[submodule "service-discovery"]
+	path = service-discovery
+	url = git@github.com:FernandoCruzCavina/service-discovery.git
+[submodule "user-authentication-service"]
+	path = user-authentication-service
+	url = git@github.com:FernandoCruzCavina/user-authentication-service.git
